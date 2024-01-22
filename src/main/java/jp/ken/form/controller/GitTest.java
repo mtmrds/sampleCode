@@ -9,5 +9,6 @@ public class GitTest {
 	ウインドウ→ビューの表示→その他→Gitリポジトリ―
 	Gitリポジトリ―→プロジェクトを選択→切り替え→New Branch
 	プルリクが上がらない？？
+
 	*/
 }
